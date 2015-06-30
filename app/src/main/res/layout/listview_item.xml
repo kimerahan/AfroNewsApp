@@ -2,14 +2,14 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:paddingBottom="40dp">
+    android:paddingBottom="20dp">
 
     <TextView
         android:id="@+id/ranklabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/ranklabel"
-        android:textSize="30dp"
+        android:textSize="20dp"
         android:layout_alignParentTop="true"
         android:layout_toRightOf="@+id/flag"
         android:layout_toEndOf="@+id/flag" />
